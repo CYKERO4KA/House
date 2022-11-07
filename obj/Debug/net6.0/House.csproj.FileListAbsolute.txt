@@ -1,0 +1,15 @@
+C:\Linux_files\C#_files\Test\Test\bin\Debug\net6.0\House.exe
+C:\Linux_files\C#_files\Test\Test\bin\Debug\net6.0\House.deps.json
+C:\Linux_files\C#_files\Test\Test\bin\Debug\net6.0\House.runtimeconfig.json
+C:\Linux_files\C#_files\Test\Test\bin\Debug\net6.0\House.dll
+C:\Linux_files\C#_files\Test\Test\bin\Debug\net6.0\House.pdb
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.csproj.AssemblyReference.cache
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.AssemblyInfoInputs.cache
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.AssemblyInfo.cs
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.csproj.CoreCompileInputs.cache
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.dll
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\refint\House.dll
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.pdb
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\House.genruntimeconfig.cache
+C:\Linux_files\C#_files\Test\Test\obj\Debug\net6.0\ref\House.dll

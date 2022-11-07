@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PlZ4TmTl6z8fj/BwONBQ1oIYhP3AkqqloTdGI8W6uLUhMmTMRsmseD0wQ2IzINWPQZA7qJCkopxDvY704ZQug==",
+  "success": true,
+  "projectFilePath": "C:\\Linux_files\\C#_files\\Test\\Test\\House.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.10\\microsoft.netcore.app.runtime.win-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.10\\microsoft.aspnetcore.app.runtime.win-x64.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
